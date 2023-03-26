@@ -4,7 +4,7 @@
 
 ### Background
 
-I am fascinated by the simplicity of configuring a ChatGPT plugin. There is a lot of power packed into the lightweight [Plugin Manifest file as described in the documentation](https://platform.openai.com/docs/plugins/getting-started/plugin-manifest). I am collecting examples of these plugin manifest as I find them on my [awesome  ChatGPT plugin](https://github.com/imaurer/awesome-chatgpt-plugins/) list.
+I am fascinated by the simplicity of configuring a ChatGPT plugin. There is a lot of power packed into the lightweight [Plugin Manifest file as described in the documentation](https://platform.openai.com/docs/plugins/getting-started/plugin-manifest). I am collecting examples of these plugin manifest as I find them on my [awesome ChatGPT plugin](https://github.com/imaurer/awesome-chatgpt-plugins/) list.
 
 
 
@@ -239,3 +239,5 @@ I also asked ChatGPT if it had any suggested additions based on what it knows ab
 
 
 Can't wait to get off the waitlist and give this a whirl myself.
+
+Home: [Awesome ChatGPT plugin](https://github.com/imaurer/awesome-chatgpt-plugins/)
