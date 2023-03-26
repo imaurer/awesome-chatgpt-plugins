@@ -18,6 +18,8 @@ Once things stabilize, I will curate this information into something coherent by
 
 - [Using ChatGPT Plugins within LangChain abstractions](https://python.langchain.com/en/latest/modules/agents/examples/chatgpt_plugins.html) [March 24, 2023]
 
+- [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/) [March 23, 2023]
+
 
 
 ### Trending HackerNews Discussions
