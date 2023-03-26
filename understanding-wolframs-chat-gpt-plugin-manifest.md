@@ -88,7 +88,7 @@ I copied the `description_for_model` from  [Wolfram plugin manifest](https://www
 
 > When using getWolframAlphaResults, a variable name MUST be a single-letter, either without a subscript or with an integer subscript, e.g., n, n1, or n_1.
 
-[**Wolfram Language Variables**](https://reference.wolfram.com/language/tutorial/Variables.html) This documentation explains variables in the Wolfram Language, including the rules for naming variables, which is important for ensuring compatibility with the `getWolframAlphaResults` function.
+[**Work with Variables and Functions**](https://reference.wolfram.com/language/howto/WorkWithVariablesAndFunctions.html) This documentation explains variables in the Wolfram Language, including the rules for naming variables, which is important for ensuring compatibility with the `getWolframAlphaResults` function.
 
 
 
