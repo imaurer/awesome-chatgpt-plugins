@@ -27,6 +27,8 @@ Further down it says:
 The documentation describes some [best practices](https://platform.openai.com/docs/plugins/getting-started/best-practices) which are helpful, but the [examples](https://platform.openai.com/docs/plugins/examples) initially provided are too generic to be useful.
 
 
+I decided to take a deeper look at the Wolfram plugin's `description_for_model` to get a better idea how to write a good one.
+
 
 ### Wolfram Manifest Breakdown
 
