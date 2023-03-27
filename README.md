@@ -8,7 +8,7 @@ Once things stabilize, I will curate this information into something coherent by
 
 ### Blog Articles
 
-- [Understanding Wolfram's ChatGPT Plugin Manifest](https://github.com/imaurer/awesome-chatgpt-plugins/blob/main/understanding-wolframs-chat-gpt-plugin-manifest.md) [March 26, 2023]
+- [Understanding Wolfram's ChatGPT Plugin Manifest](https://github.com/imaurer/awesome-chatgpt-plugins/blob/main/description_for_model_howto.md) [March 26, 2023]
 
 - [Using ChatGPT Plugins with LLaMA](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14) [March 26, 2023]
 
