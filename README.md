@@ -16,7 +16,7 @@ Once things stabilize, I will curate this information into something coherent by
 
 - [Building a ChatGPT plugin to answer questions about data hosted in Datasette](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) [March 24, 2023]
 
-- [Using ChatGPT Plugins within LangChain abstractions](https://python.langchain.com/en/latest/modules/agents/examples/chatgpt_plugins.html) [March 24, 2023]
+- [Using ChatGPT Plugins within LangChain abstractions](https://python.langchain.com/en/latest/modules/agents/tools/examples/chatgpt_plugins.html) [March 24, 2023]
 
 - [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/) [March 23, 2023]
 
